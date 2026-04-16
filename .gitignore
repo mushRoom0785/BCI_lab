@@ -8,3 +8,24 @@ __pycache__/
 *.log
 *.tmp
 
+# virtual environments
+.venv/
+
+# IDE settings
+.idea/
+
+# private slides (not shared publicly)
+slides/
+
+# LaTeX build artifacts
+*.aux
+*.fls
+*.fdb_latexmk
+*.nav
+*.snm
+*.toc
+*.xdv
+*.out
+*.synctex.gz
+*.bbl
+*.blg
